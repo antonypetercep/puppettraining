@@ -1,0 +1,14 @@
+{
+  "name": "antony-mediawiki",
+  "version": "0.1.0",
+  "author": "antony",
+  "summary": null,
+  "license": "Apache 2.0",
+  "source": "",
+  "issues_url": null,
+  "project_page": "test",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
